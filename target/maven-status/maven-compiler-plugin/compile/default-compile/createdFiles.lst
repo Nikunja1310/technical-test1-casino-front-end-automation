@@ -1,0 +1,5 @@
+com\borgataonline\casino\drivermanager\ManageBrowser.class
+com\borgataonline\casino\pages\HomePage.class
+com\borgataonline\casino\pages\LoginPage.class
+com\borgataonline\casino\utility\Utility.class
+com\borgataonline\casino\propertyreader\PropertyReader.class

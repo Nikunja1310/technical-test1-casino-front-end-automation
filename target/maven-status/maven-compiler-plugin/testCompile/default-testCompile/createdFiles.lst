@@ -1,0 +1,3 @@
+com\borgataonline\casino\testsuite\steps\LoginSteps.class
+com\borgataonline\casino\testsuite\Hooks.class
+com\borgataonline\casino\testsuite\runner\TestRunner.class

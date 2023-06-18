@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.borgataonline.casino.testsuite.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.736 s - in com.borgataonline.casino.testsuite.runner.TestRunner
